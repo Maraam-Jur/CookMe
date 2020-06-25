@@ -13,6 +13,10 @@ a:hover{
 	cursor:pointer;
 	text-decoration:none;
 }
+a:focus{
+	cursor:pointer;
+	text-decoration:none;
+}
 .Download{
 	text-align:center;
 	margin-top:5%;
@@ -36,11 +40,4 @@ a:hover{
 	
 }
 
-a{
-  color:white;
-}
-nav a:hover{
-  color:white;
-  text-decoration:none;
-  cursor:pointer;
-}
+
